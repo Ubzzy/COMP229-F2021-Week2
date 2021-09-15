@@ -1,0 +1,12 @@
+{
+  "name": "comp229-f2021-week2",
+  "version": "0.0.1",
+  "description": "demo project for COMP229 week2",
+  "main": "index.js",
+  "author": "Ubaid Delawala",
+  "license": "MIT",
+  "scripts": 
+  {
+    "start": "node index.js"
+  }
+}
